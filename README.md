@@ -1,4 +1,4 @@
-# Big-DataNotes
+# Big Data Notes
 
 ### Büyük Veri Nedir ? 
 
